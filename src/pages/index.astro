@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Badge from "../components/Badge.astro"
+import SectionContainer from "../components/etiquetas/SectionContainer.astro"
+import LinkedinIcon from "../components/icons/LinkedIn.astro"
+import TwitterIcon from "../components/icons/Twitter.astro"
+import SocialPill from "../components/SocialPill.astro"
+import InstagramIcon from "../components/icons/Instagram.astro"
+import Briefcase from "../components/icons/Briefcase.astro"
+import MailIcon from "../components/icons/Mail.astro"
+import Experience from '../components/Experience.astro'
+import H1 from '../components/etiquetas/H1.astro'
+import H2 from '../components/etiquetas/H2.astro'
+
+---
+<BaseLayout 
+	title="Adrián Gcía - UX Design Project Manager"
+	description="UX Design Project Estrategic Management"
+>
+	<main>
+		<SectionContainer class="pt-14 pb-10">	
+			<img 
+				class="rounded-full size-12 mb-4" 
+				src="https://media.licdn.com/dms/image/C4D03AQHAoFT8Pkqkyg/profile-displayphoto-shrink_800_800/0/1563790593186?e=1715212800&v=beta&t=8feiTNJPp_NaBJYqLkpGdIBxNtLSOTjH3Gj8F5Ttjfg" 
+				alt="Mi foto de perfil"
+			/>
+			<H1>
+				Hola, soy Adrián Gcía 				
+				<!-- <a class="inline-flex items-center" href="https://www.linkedin.com/in/adriangcia/" target="_blank">
+					<Badge>						
+						Linkedin
+					</Badge>
+				</a>				 -->
+			</H1>
+			<h2 class="flex flex-row max-w-[60ch]">UX, Design and Project manager con más de 10 años de experiencia.</h2>
+			<h2 class="flex flex-row max-w-[60ch]">Experto en design thinking, gestión de diseño y experiencia de usuario.</h2>
+			<nav class="flex flex-wrap my-5 gap-x-3 gap-y-1">				
+					<SocialPill href="https://www.linkedin.com/in/adriangcia/" target="_blanck">
+						<LinkedinIcon
+							class="size-7"
+						/>
+							<span>LinkedIn</span>						
+					</SocialPill>
+					<SocialPill href="https://twitter.com/Adrian_Gcia" target="_blanck">
+						<TwitterIcon
+							class="size-6"
+						/>
+							<span>Twitter</span>						
+					</SocialPill>
+					<SocialPill href="https://www.instagram.com/adrian_gcia/" target="_blanck">
+						<InstagramIcon
+							class="size-7"
+						/>
+							<span>Instagram</span>						
+					</SocialPill>
+					<SocialPill href="mailto:adriangcia@gmail.com" target="_blanck">
+						<MailIcon
+							class="size-7"
+						/>
+							<span>adriangcia@gmail.com</span>						
+					</SocialPill>
+			</nav>
+		</SectionContainer>
+		<SectionContainer class="px-6 content-center">			
+			<H2 class="inline-flex items-center">
+				<Briefcase class="size-10"/>Cronología
+			</H2>
+			<Experience/>
+		</SectionContainer>
+		
+	</main>
+	
+</BaseLayout>
+

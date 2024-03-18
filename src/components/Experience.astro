@@ -1,0 +1,80 @@
+---
+import ExperienceItem from "./ExperienceItem.astro";
+const EXPERIENCE = [
+    { 
+        date: '2020 - 2024',
+        title: 'Azai Solutions SL',
+        description: 'Project & UX Manager, Product Designer. Desarrollo de herramientas digitales para gestión de entornos industriales.',
+        link: 'https://azai.info/',
+    },
+    { 
+        date: '2020',
+        title: 'Diseño de skateparks',
+        description: 'Como parte de mi labor en la FDPPA asesoro a ayuntamientos respecto a instalaciones para patinar y este año diseño y dirijo mi proyecto.',
+        link: 'https://skateparksdesign.com/',
+    },    
+    { 
+        date: '2019',
+        title: 'Asturias Diseña',
+        description: 'Formo parte de los impulsores de un nuevo colectivo que agrupa a todas las disciplinas, y entidades, directamente relacionadas con el diseño, con el objetivo de trabajar junto en la divulgación y el buen diseño. Además soy el responsable de la página web.',
+        link: 'https://asturias.design/',
+    },
+    // { 
+    //     date: '2018',
+    //     title: 'Comité roller freestyle en FDPPA',
+    //     description: 'Asumo el cargo como primer director del comité de roller freestyle en la Federación de Patinaje del Principado de Asturias con el objetivo de potenciar la disciplina y organizar competiciones y eventos con el apoyo federativo.',
+    //     link: '',
+    // },
+    { 
+        date: '2018 - 2019',
+        title: 'Facto Agencia de Innovación',
+        description: 'Design & Innovation Manager. Agencia de innovación y diseño con enfoque en empresas de la economía social.',
+        link: '',
+    },
+    {
+        date: '06 - 2016',
+        title: 'Ingeniería Técnica Industrial - Electrónica',
+        description: 'Entrega PFC, Epi Gijón, Universidad de Oviedo.', 
+        link: '',
+    }, 
+    {
+        date: '2015',
+        title: 'mimaría hempworks',
+        description: 'Fundo junto a un socio mimaría hempworks con el objetivo de desarrollar una marca de productos elaborados con fibra de cáñamo, con pequeñas tiradas de producción local.',
+        link: 'https://mimariahempworks.com/',
+    },
+    {
+        date: '2012',
+        title: 'Dida (Asociación de Diseñadores Industriales de Asturias)',
+        description: 'Al poco tiempo de estar trabajando en Genética Design nos animan a tomar las riendas de DIDA y darle un nuevo enfoque más jóven a la asociación. De ahí nacieron los Design & Drinks, congresos de diseño, etc...',
+        link: 'https://asociacion-dida.org',
+    },
+    {
+        date: '2012 - 2018',
+        title: 'Genética Design Management',
+        description: 'Tras terminar los estudios del Máster y haber trabajado en varios proyectos nos juntamos tres exalumnos y fundamos nuestro propio estudio de diseño y gestión de proyectos de diseño.',
+        link: 'https://geneticadesign.com',
+    },
+    {
+        date: '2011',
+        title: 'Akroteria',
+        description: 'Diseño y proyectos de estrategia arquitectónica y urbanística.',
+        link: '',
+    },
+    {
+        date: '2011',
+        title: 'Master en Gestión del Diseño Industrial',
+        description: 'Estudiado en la EPI Gijón, Universidad de Oviedo. Conocimiento de todo lo que implica el desarrollo de un producto industrial y los procesos que gestiona la figura de un Product Manager, desarrollando diferentes proyectos con clientes reales.',
+        link: '',
+    }
+]
+---
+<ol class="relative border-s border-gray-200 dark:border-gray-700">                  
+    {
+        EXPERIENCE.map(experience => (
+            <li class="ml-7 mb-10 ms-4 text-pretty">
+                <ExperienceItem {... experience}/>
+            </li>
+        ))
+    }
+</ol>

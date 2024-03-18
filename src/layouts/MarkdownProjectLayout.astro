@@ -1,0 +1,43 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import SectionContainer from "../components/etiquetas/SectionContainer.astro"
+import H1 from '../components/etiquetas/H1.astro'
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout title={frontmatter.title} description="UX Design Project Estrategic Management">
+    <SectionContainer class="pt-5 md:pt-14 pb-10">        
+        <div class="flex justify-center items-center">
+            <img
+            src={frontmatter.imageFeatured.url}
+            alt={frontmatter.imageFeatured.alt}  
+            width='80%'
+            class="mb-4 md:mb-6 rounded-lg w-[100%] max-w-screen-md"
+            />
+        </div>
+        <H1>{frontmatter.title}</H1>
+        <slot />
+        <p class="mt-5">
+            <b>Herramientas y tecnologías:</b>
+            <div>{frontmatter.tags.map((tag) => <button ><a href={`/tags/${tag}`}>{tag}</a></button>)}</div> 
+        </p>
+    </SectionContainer>
+    
+</BaseLayout>
+<style>
+    button{
+        margin-right: 5px;  
+        padding: 5px;
+        border:0px;     
+        border-radius: 5px; 
+    }
+    button a{
+        text-decoration: none;
+        color: inherit
+    }   
+    a{
+		color:rgb(13 148 136);
+		text-decoration: underline;
+	}
+
+</style>

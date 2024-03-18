@@ -1,0 +1,110 @@
+---
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+
+import '@fontsource-variable/onest'
+interface Props {
+	title: string
+	description: string
+}
+
+const { title, description } = Astro.props
+
+---
+<!doctype html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>	
+	<body class="px-3 bg-neutral-950">						
+	
+	<div class="absolute bottom-0 left-0 right-0 top-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:14px_24px] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_100%)]" />
+		 
+		<Header/>
+		<section class="flex flex-col h-screen justify-between z-10">
+			<slot/>
+			<Footer />
+		</section>
+		<script>
+		const hamburgerElement = document.querySelector('.hamburger') as HTMLElement;
+		const navLinksElement = document.querySelector('.nav-links') as HTMLElement;
+		
+		hamburgerElement.addEventListener('click', () => {
+		navLinksElement.classList.toggle('expanded');
+		});
+	
+		</script>
+	</body>
+</html>
+<style is:global>
+	:root {
+		color-scheme: light dark;
+	}
+	html {
+		font-size: 16px;
+		font-family: 'Onest Variable', sans-serif;
+		color:lightgray;				
+	}
+	body{
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		/* background-color: #181a1b; */
+	}
+	p{
+		padding-top: .2rem;
+		padding-bottom: .2rem;
+	}	
+	a{
+		color:#06b6d4;
+		text-decoration: underline;
+	}
+
+	
+	/* nav styles */
+	
+	.nav-links {
+		width: 100%;     
+		display: none;
+		margkin: 0;	
+	}
+	.nav-links a {
+		display: block;
+		text-align: center;
+		margin-left: 2px;
+		padding: 1px 0;
+		text-decoration: none;
+		font-size: 1.2rem;
+		font-weight: bold;	
+		color: lightgray;
+	}
+	.expanded{
+		display: unset;
+	}
+	@media screen and (min-width: 636px) {
+	.nav-links {
+		display: block;
+		position: static;
+		width: auto;
+		background: none;
+	}
+	.nav-links a {
+		display: inline-block;
+		padding: 5px 20px 5px 20px;
+		
+	}
+	.nav-links a:hover,
+	.nav-links a:focus {
+		border-bottom: solid 3px;
+		border-color: inherit;    	
+	}
+	.hamburger {
+		display: none;
+	}
+	}
+</style>
