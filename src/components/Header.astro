@@ -2,7 +2,7 @@
 import Navigation from '../components/Navigation.astro'
 import Hamburger from '../components/Hamburger.astro'
 ---
-<nav class="flex flex-row py-1 mt-9 gap-x-10 md:justify-center text-black md:text-inherit bg-indigo-500/70 rounded-md z-10"> <!-- Por algún motivo en el deploy a netlify se cambia el color del fondo y se pone azul -->
+<nav class="flex flex-row py-1 mt-9 gap-x-10 md:justify-center text-black md:text-inherit rounded-md z-10">
     <Hamburger />
     <Navigation />
 </nav>
@@ -12,7 +12,7 @@ import Hamburger from '../components/Hamburger.astro'
         width: 100%;
         border-radius: 15px;
         background-color: rgb(99 102 241 / 0.7); 
-        /* Fuerzo aquí el color del fondo */
+        /* Fuerzo aquí el color del fondo que en el deploy se cambia con las clases de Tailwind */
     }
     @media screen and (min-width: 636px) {
         nav{
