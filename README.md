@@ -1,1 +1,1 @@
-# Web personal creada a modo portfolio para buscar un nuevo trabajo y de paso aprender a utilizar el framework Astro.
+# Web personal creada a modo portfolio para buscar un nuevo trabajo y de paso aprender a utilizar el framework Astro y Tailwind.
