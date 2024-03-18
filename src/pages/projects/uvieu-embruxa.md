@@ -22,7 +22,7 @@ https://geneticadesign.com/uvieu-embruxa-stand-del-ayto-de-oviedo-en-la-feria-in
     <img src="https://i0.wp.com/geneticadesign.com/wp-content/uploads/2017/07/Expo002.jpg" alt="Vista del pórtico de entrada al espacio de Uviéu Embruxa" class="imgmd">
 </div>
 <div class="flex justify-center items-center">
-    <img src="https:/i1.wp.com/geneticadesign.com/wp-content/uploads/2017/07/Expo001.jpg" alt="Vista de algunas muestras expósitivas en el espacio de Uviéu Embruxa" class="imgmd">
+    <img src="https://i1.wp.com/geneticadesign.com/wp-content/uploads/2017/07/Expo001.jpg" alt="Vista de algunas muestras expósitivas en el espacio de Uviéu Embruxa" class="imgmd">
 </div>
 <div class="flex justify-center items-center">
     <img src="https://i1.wp.com/geneticadesign.com/wp-content/uploads/2017/07/Bici001.jpg" alt="Vista de una de las instalaciones inmersivas en el espacio de Uviéu Embruxa" class="imgmd">
