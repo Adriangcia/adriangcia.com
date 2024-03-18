@@ -4,13 +4,13 @@ title: 'Medidor de calado de barcos mercantes graneleros'
 pubDate: 2022-07-01
 description: 'El proyecto tenía como objetivo crear un dispositivo para medir el calado de los barcos mercantes, graneleros, en el puerto de origen y en el el puerto destino.'
 imageFeatured:
-    url: "../src/images/testcalado-min.png"
+    url: "../public/images/testcalado-min.png"
     alt: 'Vista de la cabina del helimer que usamos para simular emergencias.'
 tags: [Design Thinking, Design Management, Blender, Impresión 3D, Inkscape]
 ---
 El proyecto tenía como objetivo crear un dispositivo para medir el calado de los barcos mercantes, graneleros, en el puerto de origen y en el el puerto destino.
 <div class="flex justify-center items-center">
-    <img src="/src/images/medidorcaladominiaturas.png" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
+    <img src="/public/images/medidorcaladominiaturas.png" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
     </div>
 
 Este proyecto se realizó entre varias empresas y Genética Design éramos los responsables de la gestión, coordinación y diseño.

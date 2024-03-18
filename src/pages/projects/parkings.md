@@ -4,7 +4,7 @@ title: 'Parkings'
 pubDate: 2022-07-01
 description: 'Módulo de gestión de parkings por visión artificial.'
 imageFeatured:
-    url: "../src/images/parkingcontrol.png"
+    url: "../public/images/parkingcontrol.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Visión artificial", "C#", "Python", "Figma", Azure, Design Thinking, HTML, CSS]
 ---
@@ -15,11 +15,11 @@ De los desarrollos planteados y pendientes de ejecutar el que más interés me p
 Como primer experimento a desarrollar con uno de nuestros clientes fue la gestión de un parking desde el propio kumquat, con el que informar no solo al usuario, sino tener métricas e informes detallados sobre su utilización.
 
 <div class="flex justify-center items-center">
-            <img src="/src/images/parkingcontrolsystem.png" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
+            <img src="/public/images/parkingcontrolsystem.png" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
 </div>  
 
 <div class="flex justify-center items-center">
-            <img src="/src/images/parkingcontrolview.png" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
+            <img src="/public/images/parkingcontrolview.png" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
 </div>  
 
 

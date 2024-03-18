@@ -4,7 +4,7 @@ title: 'Ale Fisio'
 pubDate: 2022-07-01
 description: 'Aplicación para la gestión de centros de fisioterapia.'
 imageFeatured:
-    url: "../src/images/AleFisioperfil.jpg"
+    url: "../public/images/AleFisioperfil.jpg"
     alt: 'Vista de la cabina del helimer que usamos para simular emergencias.'
 tags: [Python, Jinja, HTML, CSS, Inkscape, GDrive, Slack, Trello, Atlasian Bitbucket]
 ---
@@ -14,7 +14,7 @@ Pasamos varias jornadas en el centro para conocer el día a día de todos los tr
 
 Creamos una aplicación sencilla desde la que gestionar historiales de pacientes, citas, turnos, facturación…
 
-<img src="/src/images/AleFisiocita.jpg" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
+<img src="/public/images/AleFisiocita.jpg" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
 
 El equipo para este desarrollo estaba formado por un programador, técnico de sistemas y dos diseñadores.
 
@@ -22,9 +22,9 @@ Mi rol fue Gestión del proyecto, coordinar equipo y establecer las fases de dis
 
 Investigación para el diseño, estudio de los usarios, análisis de campo y diseño de la aplicación.
 
-<img src="/src/images/AleFisioturnos.jpg" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
+<img src="/public/images/AleFisioturnos.jpg" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
 
-<img src="/src/images/AleFisiofacturas.jpg" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
+<img src="/public/images/AleFisiofacturas.jpg" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
 
 
 <style>
