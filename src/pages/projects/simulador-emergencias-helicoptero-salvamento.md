@@ -4,7 +4,7 @@ title: 'Simulador emergencias en helicoptero'
 pubDate: 2022-07-01
 description: 'Este proyecto fue un reto divertido que desarrollamos para el Centro de Salvamento Marítimo Jovellanos como parte del programa europeo ATVirtual.'
 imageFeatured:
-    url: "../public/images/helisim.jpg"
+    url: "../images/helisim.jpg"
     alt: 'Vista de la cabina del helimer que usamos para simular emergencias.'
 tags: [C#, Python, Azure, Visual Studio Code, Electrónica digital, GDrive, Slack, Trello]
 ---
@@ -21,7 +21,7 @@ El equipo para este desarrollo estaba formado por un ingeniero de telecomunicaci
 Mi rol principal en este proyecto consistió en la gestión, trato con el cliente y la coordinación del equipo, además de definir toda la interacción de los futuros usuario y la dirección de la inmersión.
 
 <div class="flex justify-center items-center">
-    <img src="/public/images/helitrip.png" alt="Vistas del simulador de emergencias en helicoptero de Salvamento Marítimo" class="imgmd">
+    <img src="/images/helitrip.png" alt="Vistas del simulador de emergencias en helicoptero de Salvamento Marítimo" class="imgmd">
 </div>
 
 <style>

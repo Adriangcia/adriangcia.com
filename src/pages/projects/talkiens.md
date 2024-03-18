@@ -4,7 +4,7 @@ title: 'talkiens'
 pubDate: 2022-07-01
 description: 'Talkiens es una plataforma desarrollada para la enseñanza de idiomas online a nivel internacional.'
 imageFeatured:
-    url: "../public/images/talkiensmovil.png"
+    url: "../images/talkiensmovil.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Figma", "C#", "React", "HTML", "CSS", "Azure", "Visual Studio Code", "DBeaver", "GDrive", "Slack", "Trello", "Gitlab", "Inkscape", "YT"]
 ---
@@ -22,7 +22,7 @@ Esto lo pongo en común con el equipo de sistemas y programación, con el fin de
 
 Tras este paso vuelvo a reunirme con el cliente para validar el diseño o replantear lo que pueda surgir.
 
-<img src="/public/images/talkiensusuarioswidescreen.png" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
+<img src="/images/talkiensusuarioswidescreen.png" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
 
 Lo siguiente, si no tenemos que revisitar alguno de los pasos anteriores, es nombrar, jerarquizar tareas junto al equipo y definir el sprint semanal.
 
