@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'talkiens'
-pubDate: 2022-07-01
+pubDate: 2023-07-01
 description: 'Talkiens es una plataforma desarrollada para la enseñanza de idiomas online a nivel internacional.'
 imageFeatured:
     url: "../../images/talkiensmovil.png"

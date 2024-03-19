@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Ale Fisio'
-pubDate: 2022-07-01
+pubDate: 2018-01-01
 description: 'Aplicación para la gestión de centros de fisioterapia.'
 imageFeatured:
     url: "../../images/AleFisioperfil.jpg"

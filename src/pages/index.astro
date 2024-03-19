@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import Badge from "../components/Badge.astro"
 import SectionContainer from "../components/etiquetas/SectionContainer.astro"
 import LinkedinIcon from "../components/icons/LinkedIn.astro"
 import TwitterIcon from "../components/icons/Twitter.astro"
@@ -25,14 +24,9 @@ import H2 from '../components/etiquetas/H2.astro'
 				alt="Mi foto de perfil"
 			/>
 			<H1>
-				Hola, soy Adrián Gcía 				
-				<!-- <a class="inline-flex items-center" href="https://www.linkedin.com/in/adriangcia/" target="_blank">
-					<Badge>						
-						Linkedin
-					</Badge>
-				</a>				 -->
+				Hola, soy Adrián Gcía 								
 			</H1>
-			<h2 class="flex flex-row max-w-[60ch]">UX, Design and Project manager con más de 10 años de experiencia.</h2>
+			<h2 class="flex flex-row max-w-[60ch]">Esta es mi página personal, o portfolio, que iré actualizando poco a poco. <br/> Soy UX, Design and Project manager con más de 10 años de experiencia.</h2>
 			<h2 class="flex flex-row max-w-[60ch]">Experto en design thinking, gestión de diseño y experiencia de usuario.</h2>
 			<nav class="flex flex-wrap my-5 gap-x-3 gap-y-1">				
 					<SocialPill href="https://www.linkedin.com/in/adriangcia/" target="_blanck">
@@ -41,18 +35,7 @@ import H2 from '../components/etiquetas/H2.astro'
 						/>
 							<span>LinkedIn</span>						
 					</SocialPill>
-					<SocialPill href="https://twitter.com/Adrian_Gcia" target="_blanck">
-						<TwitterIcon
-							class="size-6"
-						/>
-							<span>Twitter</span>						
-					</SocialPill>
-					<SocialPill href="https://www.instagram.com/adrian_gcia/" target="_blanck">
-						<InstagramIcon
-							class="size-7"
-						/>
-							<span>Instagram</span>						
-					</SocialPill>
+					
 					<SocialPill href="mailto:adriangcia@gmail.com" target="_blanck">
 						<MailIcon
 							class="size-7"
@@ -63,7 +46,7 @@ import H2 from '../components/etiquetas/H2.astro'
 		</SectionContainer>
 		<SectionContainer class="px-6 content-center">			
 			<H2 class="inline-flex items-center">
-				<Briefcase class="size-10"/>Cronología
+				<Briefcase class="size-10 ml-[-5px]"/>Cronología
 			</H2>
 			<Experience/>
 		</SectionContainer>

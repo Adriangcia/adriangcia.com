@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Parkings'
-pubDate: 2022-07-01
+pubDate: 2023-06-12
 description: 'Módulo de gestión de parkings por visión artificial.'
 imageFeatured:
     url: "../../images/parkingcontrol.png"

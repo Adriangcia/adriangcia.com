@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Simulador emergencias en helicoptero'
-pubDate: 2022-07-01
+pubDate: 2023-06-01
 description: 'Este proyecto fue un reto divertido que desarrollamos para el Centro de Salvamento Marítimo Jovellanos como parte del programa europeo ATVirtual.'
 imageFeatured:
     url: "../../images/helisim.jpg"

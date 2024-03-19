@@ -2,6 +2,9 @@
 import BaseLayout from '../layouts/BaseLayout.astro'
 import SectionContainer from '../components/etiquetas/SectionContainer.astro';
 import H2 from '../components/etiquetas/H2.astro'
+import TwitterIcon from "../components/icons/Twitter.astro"
+import SocialPill from "../components/SocialPill.astro"
+import InstagramIcon from "../components/icons/Instagram.astro"
 ---
 <BaseLayout 
 	title="Adrián Gcía - UX Design Project Manager"
@@ -16,6 +19,20 @@ import H2 from '../components/etiquetas/H2.astro'
         <H2 class="flex flex-row text-5xl font-bold gap-x-3 pb-4">
             Hola, soy Adrián 	
         </H2>
+        <nav class="flex flex-wrap my-5 gap-x-3 gap-y-1">
+            <SocialPill href="https://twitter.com/Adrian_Gcia" target="_blanck">
+                <TwitterIcon
+                    class="size-6"
+                />
+                    <span>Twitter</span>						
+            </SocialPill>
+            <SocialPill href="https://www.instagram.com/adrian_gcia/" target="_blanck">
+                <InstagramIcon
+                    class="size-7"
+                />
+                    <span>Instagram</span>						
+            </SocialPill>
+        </nav>
         <p>
             Diseñador de producto, especialista en Project Management, Design Thinking, Experiencia de Usuario y diseño de servicios.            
         </p>
@@ -38,7 +55,7 @@ import H2 from '../components/etiquetas/H2.astro'
             Desde 2012 me he implicado en la directiva de la Asociación de Diseñadores Industriales de Asturias (DIDA), ayudando a divulgar el valor del diseño en la región, creando y organizando eventos como Design & Drinks o el congreso de diseño y sociedad Design & You.
         </p>
         <p>
-            En 2019 nos reunimos entre todas las asociaciones, y entidades, relacionadas con el diseño en Asturias y creamos el colectivo Asturias Diseña, con el que creamos las jornadas de Asturias Diseña en Oviedo, Gijón y Avilés, siendo yo el responsable de las actividades en Oviedo; y los primeros premios al Diseño Asturiano de Asturias Diseña.
+            En 2019 nos reunimos entre todas las asociaciones, y entidades, relacionadas con el diseño en Asturias y creamos el colectivo Asturias Diseña, con el que organizamos las jornadas de Asturias Diseña en Oviedo, Gijón y Avilés, siendo yo el responsable de las actividades en Oviedo; y los primeros premios al Diseño Asturiano de Asturias Diseña.
         </p>
         <p>
             Fuera de mi vida laboral me gusta hacer deporte, la música, los videojuegos, las series, leer.

@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Fichajes'
-pubDate: 2022-07-01
+pubDate: 2023-07-01
 description: 'Gestión digital del registro de horarios desde el móvil de cada empleado. Módulo diseñado para el ecosistema kumquat.'
 imageFeatured:
     url: '../../images/kumquatmovil.png'

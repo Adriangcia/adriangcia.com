@@ -2,7 +2,7 @@
 import Navigation from '../components/Navigation.astro'
 import Hamburger from '../components/Hamburger.astro'
 ---
-<nav class="flex flex-row py-1 mt-9 gap-x-10 md:justify-center text-black md:text-inherit rounded-md z-10">
+<nav class="flex flex-row py-1 mt-9 gap-x-10 md:justify-center bg-indigo-500 text-black md:text-inherit rounded-md z-10">
     <Hamburger />
     <Navigation />
 </nav>
@@ -11,7 +11,7 @@ import Hamburger from '../components/Hamburger.astro'
     nav{
         width: 100%;
         border-radius: 15px;
-        background-color: #6366f1b3 !important; 
+        /* background-color: #6366f1b3 !important;  */
         /* Fuerzo aquí el color del fondo que en el deploy se cambia con las clases de Tailwind */
     }
     @media screen and (min-width: 636px) {

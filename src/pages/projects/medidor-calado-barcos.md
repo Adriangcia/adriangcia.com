@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Medidor de calado de barcos mercantes graneleros'
-pubDate: 2022-07-01
+pubDate: 2014-07-01
 description: 'El proyecto tenía como objetivo crear un dispositivo para medir el calado de los barcos mercantes, graneleros, en el puerto de origen y en el el puerto destino.'
 imageFeatured:
     url: "../../images/testcalado-min.png"

@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Uviéu Embruxa'
-pubDate: 2022-07-01
+pubDate: 2017-07-01
 description: 'Uviéu Embruxa fue un proyecto expósitivo, diferente a lo que estamos acostumbrados, con intención de estrategia turística, que desarrollamos para el Ayuntamiento de Oviedo.'
 imageFeatured:
     url: "https://i2.wp.com/geneticadesign.com/wp-content/uploads/2017/07/pantallaUEfoto.jpg"

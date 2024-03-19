@@ -19,7 +19,17 @@ const { frontmatter } = Astro.props;
         <slot />
         <p class="mt-5">
             <b>Herramientas y tecnologías:</b>
-            <!-- <div>{frontmatter.tags.map((tag) => <button ><a href={`/tags/${tag}`}>{tag}</a></button>)}</div>  -->
+            <!-- Obtengo las tags de cada proyecto y las muestro aquí -->
+            <p>
+                {frontmatter.tags
+                  .map((tag: string, index: number, array: string[]) => {
+                    if (index === array.length - 1) {
+                      return tag;
+                    } else {
+                      return `${tag}, `; 
+                    }
+                  })}
+              </p>
         </p>
     </SectionContainer>
     

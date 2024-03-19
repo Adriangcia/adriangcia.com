@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'kumquat'
-pubDate: 2022-07-01
+pubDate: 2023-06-25
 description: 'Gestión de los calendarios de vacacaciones y compensatorios. Módulo diseñado para el ecosistema kumquat.'
 imageFeatured:
     url: "../../images/vacacioneswidescreen.png"

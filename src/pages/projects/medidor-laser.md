@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
 title: 'Medidor Láser'
-pubDate: 2022-07-01
+pubDate: 2023-06-15
 description: 'Sistema de medición de caudal y llenado de lingotes metálicos por láser.'
 imageFeatured:
     url: "../../images/laserpc.png"

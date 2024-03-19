@@ -5,6 +5,7 @@ import H1 from '../components/etiquetas/H1.astro'
 import H2 from '../components/etiquetas/H2.astro'
 
 const allProjects = await Astro.glob('../pages/projects/*.md');
+allProjects.sort((a, b) => (Date.parse(b.frontmatter.pubDate)) - (Date.parse(a.frontmatter.pubDate)));
 ---
 <BaseLayout 
 	title="Adrián Gcía - UX Design Project Manager"
@@ -14,6 +15,11 @@ const allProjects = await Astro.glob('../pages/projects/*.md');
 		<H1 class="text-center">
 			Algunos proyectos
 		</H1>
+		<h2>
+			Aquí detallo alguno de los proyectos en los que he trabajo y que creo interesantes para explicar mi rol en unos u otros.
+			<br/> Iré añadiendo nuevos proyectos poco a poco.
+			<br/> En el siguiente enlace muestro otros proyectos alternativos a mi actividad principal como diseñador: <a href="/side-projects">side projects</a>.
+		</h2>
 	</section>
 	<section class="container w-full mx-auto lg:w-[900px]">		
 		<ul class="grid gap-4 md:grid-cols-2">
@@ -29,7 +35,7 @@ const allProjects = await Astro.glob('../pages/projects/*.md');
 								/> 
 							</a>
 						
-						<div class="p-5 text-pretty">
+						<div class="p-5 text-pretty projectcard">
 							<a href={project.url}>
 								<h5 class="mb-2 text-2xl font-bold tracking-tight text-lightgray dark:text-white">
 									{project.frontmatter.title}
@@ -51,7 +57,7 @@ const allProjects = await Astro.glob('../pages/projects/*.md');
 </BaseLayout>
 
 <style>
-	a{
+	.projectcard a{
 		color:lightgray;
 		text-decoration: none;
 	}

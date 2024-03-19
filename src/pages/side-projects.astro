@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import SectionContainer from '../components/etiquetas/SectionContainer.astro';
+import H1 from '../components/etiquetas/H1.astro'
+import H2 from '../components/etiquetas/H2.astro'
+
+const allProjects = await Astro.glob('../pages/projects/*.md');
+allProjects.sort((a, b) => (Date.parse(b.frontmatter.pubDate)) - (Date.parse(a.frontmatter.pubDate)));
+---
+<BaseLayout 
+	title="Adrián Gcía - UX Design Project Manager"
+	description="UX Design Project Estrategic Management"
+>
+	<section class="container w-full mx-auto lg:w-[900px] mt-12 mb-5">
+		<H1 class="text-center">
+			En desarrollo
+		</H1>
+		
+	</section> 
+</BaseLayout>
+
+<style>
+	.projectcard a{
+		color:lightgray;
+		text-decoration: none;
+	}
+</style>
