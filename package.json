@@ -14,9 +14,12 @@
     "@astrojs/check": "^0.3.4",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource-variable/onest": "^5.0.2",
+    "@hotjar/browser": "^1.0.9",
     "astro": "^4.0.8",
-    "astro-hotjar": "^1.0.1",
     "tailwindcss": "^3.4.0",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.3"
   }
 }
