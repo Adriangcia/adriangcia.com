@@ -4,7 +4,7 @@ title: 'Ale Fisio'
 pubDate: 2022-07-01
 description: 'Aplicación para la gestión de centros de fisioterapia.'
 imageFeatured:
-    url: "../images/AleFisioperfil.jpg"
+    url: "../../images/AleFisioperfil.jpg"
     alt: 'Vista de la cabina del helimer que usamos para simular emergencias.'
 tags: [Python, Jinja, HTML, CSS, Inkscape, GDrive, Slack, Trello, Atlasian Bitbucket]
 ---
