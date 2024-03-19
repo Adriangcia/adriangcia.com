@@ -4,7 +4,7 @@ title: 'Parkings'
 pubDate: 2022-07-01
 description: 'Módulo de gestión de parkings por visión artificial.'
 imageFeatured:
-    url: "../images/parkingcontrol.png"
+    url: "../../images/parkingcontrol.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Visión artificial", "C#", "Python", "Figma", Azure, Design Thinking, HTML, CSS]
 ---

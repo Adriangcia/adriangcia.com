@@ -4,7 +4,7 @@ title: 'Fichajes'
 pubDate: 2022-07-01
 description: 'Gestión digital del registro de horarios desde el móvil de cada empleado. Módulo diseñado para el ecosistema kumquat.'
 imageFeatured:
-    url: '../images/kumquatmovil.png'
+    url: '../../images/kumquatmovil.png'
     alt: 'Imgen de la vista de kumquat en móvil.'
 tags: ["Xamarin syncfusion", "C#", "Figma", "HTML", CSS]
 ---

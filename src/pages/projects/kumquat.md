@@ -4,7 +4,7 @@ title: 'kumquat'
 pubDate: 2022-07-01
 description: 'Gestión de los calendarios de vacacaciones y compensatorios. Módulo diseñado para el ecosistema kumquat.'
 imageFeatured:
-    url: "../images/vacacioneswidescreen.png"
+    url: "../../images/vacacioneswidescreen.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Design Thinking", "C#", "Azure", "Figma", HTML, CSS, Blazor]
 ---

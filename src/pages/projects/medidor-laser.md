@@ -4,7 +4,7 @@ title: 'Medidor Láser'
 pubDate: 2022-07-01
 description: 'Sistema de medición de caudal y llenado de lingotes metálicos por láser.'
 imageFeatured:
-    url: "../images/laserpc.png"
+    url: "../../images/laserpc.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["C#", "Python", "Azure", "Visual Studio Code", "Electrónica digital", "Slack", "Trello", "Gitlab", "Dropbox Paper"]
 ---

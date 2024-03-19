@@ -4,7 +4,7 @@ title: 'talkiens'
 pubDate: 2022-07-01
 description: 'Talkiens es una plataforma desarrollada para la enseñanza de idiomas online a nivel internacional.'
 imageFeatured:
-    url: "../images/talkiensmovil.png"
+    url: "../../images/talkiensmovil.png"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Figma", "C#", "React", "HTML", "CSS", "Azure", "Visual Studio Code", "DBeaver", "GDrive", "Slack", "Trello", "Gitlab", "Inkscape", "YT"]
 ---
