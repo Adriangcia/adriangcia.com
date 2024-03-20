@@ -115,7 +115,7 @@ Fuera de mi vida laboral me gusta hacer deporte, la música, los videojuegos, la
 Intento practicar deporte a diario, ya que creo importante estar en forma fisicamente para estar también en forma mentalmente, además de servir de desconexión.
 </p> <p>
 Practico varios deportes de forma más o menos asidua durante las semanas: roller freestyle, kick boxing, escalada, MTB, ski, snowboard.
-</p> <div class="flex justify-center items-center"> <img src="../images/mutegrab.jpg" width="50%" class="rounded-xl object-center mt-5 mb-5"> </div> <p>
+</p> <div class="flex justify-center items-center"> <img src="../images/mutegrab.webp" width="50%" class="rounded-xl object-center mt-5 mb-5"> </div> <p>
 En el que más implicado estoy es en roller freestyle, o aggressive inline, que llevo practicándolo desde el 95, y desde el 2018 obstento el cargo de director del comité de la disciplina en la Federación de Patinaje del Principado de Asturias.
             Así aporto mi knowhow como diseñador, ingeniero y gestor de proyectos, para orgranizar eventos, competiciones y asesorar a ayuntamientos a la hora de afrontar proyectos para la construcción de skateparks y otras instalaciones.
 </p> ` })} ` })}`;

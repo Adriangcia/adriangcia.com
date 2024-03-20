@@ -4,7 +4,7 @@ title: 'talkiens'
 pubDate: 2023-07-01
 description: 'Talkiens es una plataforma desarrollada para la enseñanza de idiomas online a nivel internacional.'
 imageFeatured:
-    url: "../../images/talkiensmovil.png"
+    url: "../../images/talkiensmovil.webp"
     alt: 'Vista de los calendarios de un empleado en kumquat'
 tags: ["Figma", "C#", "React", "HTML", "CSS", "Azure", "Visual Studio Code", "DBeaver", "GDrive", "Slack", "Trello", "Gitlab", "Inkscape", "YT"]
 ---
@@ -22,7 +22,7 @@ Esto lo pongo en común con el equipo de sistemas y programación, con el fin de
 
 Tras este paso vuelvo a reunirme con el cliente para validar el diseño o replantear lo que pueda surgir.
 
-<img src="/images/talkiensusuarioswidescreen.png" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
+<img src="/images/talkiensusuarioswidescreen.webp" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
 
 Lo siguiente, si no tenemos que revisitar alguno de los pasos anteriores, es nombrar, jerarquizar tareas junto al equipo y definir el sprint semanal.
 
@@ -32,9 +32,9 @@ La solución se presenta al cliente primero en la plataforma de desarrollo, con 
 
 Durante esta fase mi trabajo además consiste en hacer seguimiento de los usuarios con el fin de identificar nuevas mejoras en el diseño utilizando herramientas como Hotjar.
 
-<img src="/images/talkienshotjar.png" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
+<img src="/images/talkienshotjar.webp" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
 
-<img src="/images/talkiensfigma.png" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
+<img src="/images/talkiensfigma.webp" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
 
 <style>
     .imgmd{
