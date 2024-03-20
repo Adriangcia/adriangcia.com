@@ -30,6 +30,16 @@ A partir de este momento mi rol pasa a ser más técnico y mientras los programa
 
 La solución se presenta al cliente primero en la plataforma de desarrollo, con un vídeo explicativo de todas las nuevas funcionalidades para que puedan hacer pruebas previas al despliegue en producción.
 
-Durante esta fase mi trabajo además consiste etailwind
+Durante esta fase mi trabajo además consiste en hacer seguimiento de los usuarios con el fin de identificar nuevas mejoras en el diseño utilizando herramientas como Hotjar.
+
+<img src="/images/talkienshotjar.png" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
+
+<img src="/images/talkiensfigma.png" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
+
+<style>
+    .imgmd{
+        border-radius: 0.5rem;
+        margin-top: 2%;
+        margin-bottom: 2%;
     }
 </style>
