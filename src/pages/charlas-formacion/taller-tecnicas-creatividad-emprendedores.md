@@ -6,7 +6,7 @@ description: 'Taller para el Program e2 de la Unniversidad de Oviedo y el Centro
 imageFeatured:
     url: '../../images/taller-tecnicas-creatividad-emprendedores-01.webp'
     alt: 'Imgen del taller de técnicas de creatividad para emprendedores en el Talud de la Ería.'
-tags: ["Xamarin syncfusion", "C#", "Figma", "HTML", CSS]
+tags: ["Design Thinking"]
 ---
 Taller que impartí para el Program e2 de la Unniversidad de Oviedo y el Centro Internacional Santander Emprendimiento, que tenía como objetivo conectar a estudiantes de la Universidad de Oviedo con empresas asturianas, para desarrollar un proyecto y conocer la realidad del mercado laboral.
 
