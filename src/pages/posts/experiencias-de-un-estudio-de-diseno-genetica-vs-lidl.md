@@ -53,11 +53,3 @@ Y en estas estábamos, intentando plantear alguna solución con la que esquivar 
 
 Como podéis ver esta gente de Lidl son unos auténticos Cracks, jeje, tierra prensada, transparente, usar y tirar, lo tiene casi todo…
 
-
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

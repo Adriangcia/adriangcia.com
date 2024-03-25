@@ -13,18 +13,10 @@ Este proyecto surge como parte de los módulos de <a href="/projects/kumquat" ta
 Tras mucho estudio de diferentes dispositivos, entornos, cálculos, etc.
 
 Desarrollamos un sistema de medición de llenado y caudal por láser, con display informativo en planta, conexión en tiempo real con un pc en oficina e informes de producción diarios divididos por turnos.
-<div class="flex justify-center items-center">
-    <img src="/images/laserphotos.webp" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
-</div>
+
+<img src="/images/laserphotos.webp" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
+
 
 El equipo para este desarrollo estaba formado por un ingeniero de telecomunicaciones, encagardo de la programación en PC/Web y la integración con kumquat y dos ingenieros electrónicos que se encargaron de sistema de medición láser en planta.
 
 Mi rol principal en este proyecto consistió en la gestión y la coordinación del equipo.
-
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

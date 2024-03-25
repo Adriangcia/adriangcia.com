@@ -126,12 +126,3 @@ Para empezar este estudio previo, desde el IHOBE en su libro "Ingeniería del di
 
 ¿Hay problemas en la incineración de partes no reutilizables?
 
-
-
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

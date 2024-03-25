@@ -22,14 +22,5 @@ En 2019 impartí, junto a Sheila Villaverde (Consultora Formadora Innovacion Rec
 El curso estaba orientado a profesionales y participaron empresas como Seresco, Alimerka, Azvase, Thyssenkrupp...
 
 
-<div class="flex justify-center items-center">
-            <img src="/images/curso-experiencia-empleado-02.webp" width="80%" alt="Imagen del Curso de experiencia del empleado en el Club Asturiano de Calidad." class="imgmd">
-</div>  
+<img src="/images/curso-experiencia-empleado-02.webp" width="80%" alt="Imagen del Curso de experiencia del empleado en el Club Asturiano de Calidad." class="imgmd" />
 
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

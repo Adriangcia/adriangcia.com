@@ -49,10 +49,3 @@ Todo esto ya es historia que podéis encontrar en la red, eso sí, os recomiendo
 También podréis encontrar más información sobre sus trabajos en <a href="http://www.grandin.com/spanish/spanish.html" target="_blank" rel="noopener">http://www.grandin.com/spanish/spanish.html</a>
 
 
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

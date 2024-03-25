@@ -35,11 +35,3 @@ Durante esta fase mi trabajo además consiste en hacer seguimiento de los usuari
 <img src="/images/talkienshotjar.webp" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
 
 <img src="/images/talkiensfigma.webp" alt="Dos capturas del análisis de usuariarios con Hotjar" class="imgmd">
-
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

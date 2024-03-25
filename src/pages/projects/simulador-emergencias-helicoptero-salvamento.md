@@ -20,14 +20,15 @@ El equipo para este desarrollo estaba formado por un ingeniero de telecomunicaci
 
 Mi rol principal en este proyecto consistió en la gestión, trato con el cliente y la coordinación del equipo, además de definir toda la interacción de los futuros usuario y la dirección de la inmersión.
 
-<div class="flex justify-center items-center">
-    <img src="/images/helitrip.webp" alt="Vistas del simulador de emergencias en helicoptero de Salvamento Marítimo" class="imgmd">
-</div>
+
+<img src="/images/helitrip.webp" alt="Vistas del simulador de emergencias en helicoptero de Salvamento Marítimo" class="imgmd">
+
 
 <style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
+    iframe{
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
     }
 </style>

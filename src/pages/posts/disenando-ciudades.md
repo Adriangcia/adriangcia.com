@@ -47,11 +47,11 @@ Y otro es Legible London, el actual sistema de señalización peatonal de Londre
 <a href="http://vimeo.com/78514393">04x10 Octubre 2013: Oyer Corazón</a> from <a href="http://vimeo.com/04x10">04x10</a> on <a href="https://vimeo.com">Vimeo</a>.
 
 
-
 <style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
+    iframe{
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
     }
 </style>

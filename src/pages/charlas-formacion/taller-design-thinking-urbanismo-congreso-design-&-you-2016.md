@@ -16,9 +16,9 @@ Con esta jornada buscamos abrir la mente de los participantes hacia nuevas tende
 
 Con el debate sobre nuestras cabezas, y tras una contundente comida asturiana, dimos paso a la presentación del los retos a resolver en el taller de Design Thinking y Urbanismo: “Repensar el Campo de San Francisco”.
 
-<div class="flex justify-center items-center">
-            <img src="/images/designthinkingyurbanismodyd02.webp" width="80%" alt="Imagen con los diferentes retos planteados durante el taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
-</div>  
+
+<img src="/images/designthinkingyurbanismodyd02.webp" alt="Imagen con los diferentes retos planteados durante el taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd" />
+
 
 Para hacer un primer estudio de campo, y ponernos en el lugar del ciudadano que se enfrenta a las zonas de cada reto, hicimos un juego de roles (Role Playing), donde nos convertimos en:
 
@@ -32,29 +32,21 @@ Para hacer un primer estudio de campo, y ponernos en el lugar del ciudadano que 
 
 Una vez llegados de nuevo al Pavo Real tocaba poner en común al grupo lo percibido durante el paseo y así trabajar ya en el diseño, ordenando esta información en un Mapa de la Empatía, con el objetivo de conocer lo mejor posible como se siente cada uno de los personajes al enfrentarse a cada reto.
 
-<div class="flex justify-center items-center">
-            <img src="/images/designthinkingyurbanismodyd03.webp" width="80%" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
-</div>
+
+<img src="/images/designthinkingyurbanismodyd03.webp" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
+
 
 Una vez teniendo señalados los puntos de conflicto y necesidades a satisfacer se llevaron a cabo Brainstormings para generar ideas de mejora, que posteriormente fueron jerarquizadas según su nivel de innovación, viabilidad y deseabilidad.
 
 Con esto ya solo quedaba preparar prototipos de las soluciones, utilizando herramientas como el storytellings y storyboards, un canvas bussines model adaptado para el urbanismo, plastilina, customer journey map, pinturas…
 
-<div class="flex justify-center items-center">
-            <img src="/images/designthinkingyurbanismodyd04.webp" width="80%" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
-</div>
+
+<img src="/images/designthinkingyurbanismodyd04.webp" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
+
 
 Muchas soluciones interesantes salieron de esta jornada, siempre es interesante trabajar en grupos multidisciplinares utilizando técnicas que potencien y guíen la creatividad.
 
-<div class="flex justify-center items-center">
-            <img src="/images/designthinkingyurbanismodyd05.webp" width="80%" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
-</div>
+
+<img src="/images/designthinkingyurbanismodyd05.webp" alt="Imagen taller de Design Thinking y urbanismo en Design & You 2016." class="imgmd">
 
 
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>

@@ -14,19 +14,8 @@ De los desarrollos planteados y pendientes de ejecutar el que más interés me p
 
 Como primer experimento a desarrollar con uno de nuestros clientes fue la gestión de un parking desde el propio kumquat, con el que informar no solo al usuario, sino tener métricas e informes detallados sobre su utilización.
 
-<div class="flex justify-center items-center">
-            <img src="/images/parkingcontrolsystem.webp" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
-</div>  
 
-<div class="flex justify-center items-center">
-            <img src="/images/parkingcontrolview.webp" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
-</div>  
+<img src="/images/parkingcontrolsystem.webp" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
 
 
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>
+<img src="/images/parkingcontrolview.webp" width="50%" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">

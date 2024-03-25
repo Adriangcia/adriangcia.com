@@ -28,11 +28,3 @@ Investigación para el diseño, estudio de los usarios, análisis de campo y dis
 
 <img src="/images/AleFisiofacturas.webp" alt="Vista del listado de usuarios en talkiens admin" class="imgmd">
 
-
-<style>
-    .imgmd{
-        border-radius: 0.5rem;
-        margin-top: 2%;
-        margin-bottom: 2%;
-    }
-</style>
