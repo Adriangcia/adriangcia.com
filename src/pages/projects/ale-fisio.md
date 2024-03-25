@@ -10,9 +10,11 @@ tags: [Python, Jinja, HTML, CSS, Inkscape, GDrive, Slack, Trello, Atlasian Bitbu
 ---
 Ale Fisio fue una aplicación online para la gestión de clínicas de fisioterapia que dearrollamos para un cliente, en Genética Design Management, que poseia varios centros y quería poder tener una gestión centralizada de todos ellos.
 
-Pasamos varias jornadas en el centro para conocer el día a día de todos los trabajadores y así poder detectar necesidades no evidentes y poder adaptar los máximo posible la aplicación.
+Ale Fisio surge para satisfacer diferentes necesidades detectadas en el trabajo diario del centro, junto con las múltiples entrevistas y jornadas de trabajo con los empleados de la clínica.
 
-Creamos una aplicación sencilla desde la que gestionar historiales de pacientes, citas, turnos, facturación…
+Resultaba necesario para el buen desempeño diario y la adecuada expansión del negocio, el diseño y desarrollo de una aplicación de gestión adaptada a sus necesidades, cuyo diseño y arquitectura fuera principalmente sencilla y clara, eliminando funciones innecesarias y agilizando las tareas clave, generando un entorno de trabajo acorde a una filosofía Lean.
+
+Creamos una aplicación sencilla y limpia para un flujo de trabajo ágil desde la que gestionar historiales de pacientes, citas, turnos, facturación…
 
 <img src="/images/AleFisiocita.webp" alt="Vista de la gestión de citas en Ale Fisio" class="imgmd">
 
