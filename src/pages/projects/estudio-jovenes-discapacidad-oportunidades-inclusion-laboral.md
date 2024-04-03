@@ -57,15 +57,3 @@ El resultado final fue super satisfactorio. Del miedo inicial de algunos, la des
 Las realidades de cada participante se diluian hasta que ninguno las tenía en cuenta e interactuaban como iguales. Hasta el punto de que un equipo diseñó una aplicación para "ayudar a jóvenes en riesgo de exclusión" y, lejos de sentirse identificados, lo trabajaron de forma en la que reflejaban sus sueños y miedos, no como "personas excluidas", sino a través del diseño de perfiles y arquetipos de posibles clientes.
 
 Una experiencia super enriquecedora de la que se obtuvo mucho conocimiento y se rompieron muchos prejuicios con los que afrontar nuevas estrategias de integración de los jóvenes en el mercado laboral.
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Lc4-2cVKxp0" frameborder="0" allowfullscreen></iframe>
-<img src="/images/CursoDTAT.webp" alt="." class="imgmd"> -->
-
-<style>
-    iframe{
-        margin-left:auto;
-        margin-right:auto;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-</style>
