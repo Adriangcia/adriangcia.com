@@ -1,8 +1,8 @@
 ---
 layout: '../../layouts/MarkdownProjectLayout.astro'
-title: 'kumquat - vacaciones'
+title: 'kumquat'
 pubDate: 2023-06-25
-description: 'Gestión de los calendarios de vacacaciones y compensatorios. Módulo diseñado para el ecosistema kumquat.'
+description: 'Con Kumquat, tienes más control sobre tu empresa, mejor información, y si tienes mejor información, puedes tomar decisiones estratégicas mejores.'
 imageFeatured:
     url: "../../images/vacacioneswidescreen.webp"
     alt: 'Vista de los calendarios de un empleado en kumquat'
